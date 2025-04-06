@@ -91,4 +91,5 @@ use_pencil_filter=False
 use_ink_filter_white=False
 use_ink_filter_black=False
 use_black_lines=False
+use_colab = False  # Default to local
 
