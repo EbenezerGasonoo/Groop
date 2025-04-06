@@ -4,7 +4,7 @@ numpy>=1.21.0
 opencv-python==4.8.1.78
 cv2_enumerate_cameras==1.1.15
 onnx==1.16.0
-insightface==0.7.3
+insightface
 psutil==5.9.8
 tk==0.1.0
 customtkinter==5.2.2
